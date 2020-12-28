@@ -12,6 +12,4 @@ Follow a pre-planned online curriculum setup by google
 
 • Handle complex lifecycle situations and add logging.
 
-• Build multiple robust, production quality apps by following the best practices and
-
-recommended architecture.
+• Build multiple robust, production quality apps by following the best practices and recommended architecture.
